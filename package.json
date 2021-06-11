@@ -4,6 +4,7 @@
   "description": "",
   "main": "out/dragonBones.js",
   "typings": "out/dragonBones.d.ts",
+  "types": "out/dragonBones.d.ts",
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

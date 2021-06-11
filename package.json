@@ -1,0 +1,21 @@
+{
+  "name": "pixi-dragonbones",
+  "version": "6.0.0",
+  "description": "",
+  "main": "out/dragonBones.js",
+  "typings": "out/dragonBones.d.ts",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinqy520/pixi-dragonbones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinqy520/pixi-dragonbones/issues"
+  },
+  "homepage": "https://github.com/pinqy520/pixi-dragonbones#readme"
+}
